@@ -1,0 +1,1624 @@
+.col-bs-xs-1, .col-bs-xs-2, .col-bs-xs-3, .col-bs-xs-4, .col-bs-xs-5, .col-bs-xs-6, .col-bs-xs-7, .col-bs-xs-8, .col-bs-xs-9, .col-bs-xs-10, .col-bs-xs-11, .col-bs-xs-12, .col-bs-xs-13, .col-bs-xs-14, .col-bs-xs-15, .col-bs-xs-16, .col-bs-xs-17, .col-bs-xs-18, .col-bs-xs-19, .col-bs-xs-20, .col-bs-xs-21, .col-bs-xs-22, .col-bs-xs-23, .col-bs-xs-24, .col-bs-xs-25, .col-bs-xs-26, .col-bs-xs-27, .col-bs-xs-28, .col-bs-xs-29, .col-bs-xs-30, .col-bs-xs-31, .col-bs-xs-32, .col-bs-xs-33, .col-bs-xs-34, .col-bs-xs-35, .col-bs-xs-36, .col-bs-xs-37, .col-bs-xs-38, .col-bs-xs-39, .col-bs-xs-40, .col-bs-xs-41, .col-bs-xs-42, .col-bs-xs-43, .col-bs-xs-44, .col-bs-xs-45, .col-bs-xs-46, .col-bs-xs-47, .col-bs-xs-48, .col-bs-xs-49, .col-bs-xs-50, .col-bs-xs-51, .col-bs-xs-52, .col-bs-xs-53, .col-bs-xs-54, .col-bs-xs-55, .col-bs-xs-56, .col-bs-xs-57, .col-bs-xs-58, .col-bs-xs-59, .col-bs-xs-60, .col-bs-xs-61, .col-bs-xs-62, .col-bs-xs-63, .col-bs-xs-64, .col-bs-xs-65, .col-bs-xs-66, .col-bs-xs-67, .col-bs-xs-68, .col-bs-xs-69, .col-bs-xs-70, .col-bs-xs-71, .col-bs-xs-72, .col-bs-xs-73, .col-bs-xs-74, .col-bs-xs-75, .col-bs-xs-76, .col-bs-xs-77, .col-bs-xs-78, .col-bs-xs-79, .col-bs-xs-80, .col-bs-xs-81, .col-bs-xs-82, .col-bs-xs-83, .col-bs-xs-84, .col-bs-xs-85, .col-bs-xs-86, .col-bs-xs-87, .col-bs-xs-88, .col-bs-xs-89, .col-bs-xs-90, .col-bs-xs-91, .col-bs-xs-92, .col-bs-xs-93, .col-bs-xs-94, .col-bs-xs-95, .col-bs-xs-96, .col-bs-xs-97, .col-bs-xs-98, .col-bs-xs-99, .col-bs-xs-100, .col-bs-sm-1, .col-bs-sm-2, .col-bs-sm-3, .col-bs-sm-4, .col-bs-sm-5, .col-bs-sm-6, .col-bs-sm-7, .col-bs-sm-8, .col-bs-sm-9, .col-bs-sm-10, .col-bs-sm-11, .col-bs-sm-12, .col-bs-sm-13, .col-bs-sm-14, .col-bs-sm-15, .col-bs-sm-16, .col-bs-sm-17, .col-bs-sm-18, .col-bs-sm-19, .col-bs-sm-20, .col-bs-sm-21, .col-bs-sm-22, .col-bs-sm-23, .col-bs-sm-24, .col-bs-sm-25, .col-bs-sm-26, .col-bs-sm-27, .col-bs-sm-28, .col-bs-sm-29, .col-bs-sm-30, .col-bs-sm-31, .col-bs-sm-32, .col-bs-sm-33, .col-bs-sm-34, .col-bs-sm-35, .col-bs-sm-36, .col-bs-sm-37, .col-bs-sm-38, .col-bs-sm-39, .col-bs-sm-40, .col-bs-sm-41, .col-bs-sm-42, .col-bs-sm-43, .col-bs-sm-44, .col-bs-sm-45, .col-bs-sm-46, .col-bs-sm-47, .col-bs-sm-48, .col-bs-sm-49, .col-bs-sm-50, .col-bs-sm-51, .col-bs-sm-52, .col-bs-sm-53, .col-bs-sm-54, .col-bs-sm-55, .col-bs-sm-56, .col-bs-sm-57, .col-bs-sm-58, .col-bs-sm-59, .col-bs-sm-60, .col-bs-sm-61, .col-bs-sm-62, .col-bs-sm-63, .col-bs-sm-64, .col-bs-sm-65, .col-bs-sm-66, .col-bs-sm-67, .col-bs-sm-68, .col-bs-sm-69, .col-bs-sm-70, .col-bs-sm-71, .col-bs-sm-72, .col-bs-sm-73, .col-bs-sm-74, .col-bs-sm-75, .col-bs-sm-76, .col-bs-sm-77, .col-bs-sm-78, .col-bs-sm-79, .col-bs-sm-80, .col-bs-sm-81, .col-bs-sm-82, .col-bs-sm-83, .col-bs-sm-84, .col-bs-sm-85, .col-bs-sm-86, .col-bs-sm-87, .col-bs-sm-88, .col-bs-sm-89, .col-bs-sm-90, .col-bs-sm-91, .col-bs-sm-92, .col-bs-sm-93, .col-bs-sm-94, .col-bs-sm-95, .col-bs-sm-96, .col-bs-sm-97, .col-bs-sm-98, .col-bs-sm-99, .col-bs-sm-100, .col-bs-md-1, .col-bs-md-2, .col-bs-md-3, .col-bs-md-4, .col-bs-md-5, .col-bs-md-6, .col-bs-md-7, .col-bs-md-8, .col-bs-md-9, .col-bs-md-10, .col-bs-md-11, .col-bs-md-12, .col-bs-md-13, .col-bs-md-14, .col-bs-md-15, .col-bs-md-16, .col-bs-md-17, .col-bs-md-18, .col-bs-md-19, .col-bs-md-20, .col-bs-md-21, .col-bs-md-22, .col-bs-md-23, .col-bs-md-24, .col-bs-md-25, .col-bs-md-26, .col-bs-md-27, .col-bs-md-28, .col-bs-md-29, .col-bs-md-30, .col-bs-md-31, .col-bs-md-32, .col-bs-md-33, .col-bs-md-34, .col-bs-md-35, .col-bs-md-36, .col-bs-md-37, .col-bs-md-38, .col-bs-md-39, .col-bs-md-40, .col-bs-md-41, .col-bs-md-42, .col-bs-md-43, .col-bs-md-44, .col-bs-md-45, .col-bs-md-46, .col-bs-md-47, .col-bs-md-48, .col-bs-md-49, .col-bs-md-50, .col-bs-md-51, .col-bs-md-52, .col-bs-md-53, .col-bs-md-54, .col-bs-md-55, .col-bs-md-56, .col-bs-md-57, .col-bs-md-58, .col-bs-md-59, .col-bs-md-60, .col-bs-md-61, .col-bs-md-62, .col-bs-md-63, .col-bs-md-64, .col-bs-md-65, .col-bs-md-66, .col-bs-md-67, .col-bs-md-68, .col-bs-md-69, .col-bs-md-70, .col-bs-md-71, .col-bs-md-72, .col-bs-md-73, .col-bs-md-74, .col-bs-md-75, .col-bs-md-76, .col-bs-md-77, .col-bs-md-78, .col-bs-md-79, .col-bs-md-80, .col-bs-md-81, .col-bs-md-82, .col-bs-md-83, .col-bs-md-84, .col-bs-md-85, .col-bs-md-86, .col-bs-md-87, .col-bs-md-88, .col-bs-md-89, .col-bs-md-90, .col-bs-md-91, .col-bs-md-92, .col-bs-md-93, .col-bs-md-94, .col-bs-md-95, .col-bs-md-96, .col-bs-md-97, .col-bs-md-98, .col-bs-md-99, .col-bs-md-100, .col-bs-lg-1, .col-bs-lg-2, .col-bs-lg-3, .col-bs-lg-4, .col-bs-lg-5, .col-bs-lg-6, .col-bs-lg-7, .col-bs-lg-8, .col-bs-lg-9, .col-bs-lg-10, .col-bs-lg-11, .col-bs-lg-12, .col-bs-lg-13, .col-bs-lg-14, .col-bs-lg-15, .col-bs-lg-16, .col-bs-lg-17, .col-bs-lg-18, .col-bs-lg-19, .col-bs-lg-20, .col-bs-lg-21, .col-bs-lg-22, .col-bs-lg-23, .col-bs-lg-24, .col-bs-lg-25, .col-bs-lg-26, .col-bs-lg-27, .col-bs-lg-28, .col-bs-lg-29, .col-bs-lg-30, .col-bs-lg-31, .col-bs-lg-32, .col-bs-lg-33, .col-bs-lg-34, .col-bs-lg-35, .col-bs-lg-36, .col-bs-lg-37, .col-bs-lg-38, .col-bs-lg-39, .col-bs-lg-40, .col-bs-lg-41, .col-bs-lg-42, .col-bs-lg-43, .col-bs-lg-44, .col-bs-lg-45, .col-bs-lg-46, .col-bs-lg-47, .col-bs-lg-48, .col-bs-lg-49, .col-bs-lg-50, .col-bs-lg-51, .col-bs-lg-52, .col-bs-lg-53, .col-bs-lg-54, .col-bs-lg-55, .col-bs-lg-56, .col-bs-lg-57, .col-bs-lg-58, .col-bs-lg-59, .col-bs-lg-60, .col-bs-lg-61, .col-bs-lg-62, .col-bs-lg-63, .col-bs-lg-64, .col-bs-lg-65, .col-bs-lg-66, .col-bs-lg-67, .col-bs-lg-68, .col-bs-lg-69, .col-bs-lg-70, .col-bs-lg-71, .col-bs-lg-72, .col-bs-lg-73, .col-bs-lg-74, .col-bs-lg-75, .col-bs-lg-76, .col-bs-lg-77, .col-bs-lg-78, .col-bs-lg-79, .col-bs-lg-80, .col-bs-lg-81, .col-bs-lg-82, .col-bs-lg-83, .col-bs-lg-84, .col-bs-lg-85, .col-bs-lg-86, .col-bs-lg-87, .col-bs-lg-88, .col-bs-lg-89, .col-bs-lg-90, .col-bs-lg-91, .col-bs-lg-92, .col-bs-lg-93, .col-bs-lg-94, .col-bs-lg-95, .col-bs-lg-96, .col-bs-lg-97, .col-bs-lg-98, .col-bs-lg-99, .col-bs-lg-100, 
+ {
+  position: relative;
+  min-height: 1px;
+}
+.col-bs-xs-1, .col-bs-xs-2, .col-bs-xs-3, .col-bs-xs-4, .col-bs-xs-5, .col-bs-xs-6, .col-bs-xs-7, .col-bs-xs-8, .col-bs-xs-9, .col-bs-xs-10, .col-bs-xs-11, .col-bs-xs-12, .col-bs-xs-13, .col-bs-xs-14, .col-bs-xs-15, .col-bs-xs-16, .col-bs-xs-17, .col-bs-xs-18, .col-bs-xs-19, .col-bs-xs-20, .col-bs-xs-21, .col-bs-xs-22, .col-bs-xs-23, .col-bs-xs-24, .col-bs-xs-25, .col-bs-xs-26, .col-bs-xs-27, .col-bs-xs-28, .col-bs-xs-29, .col-bs-xs-30, .col-bs-xs-31, .col-bs-xs-32, .col-bs-xs-33, .col-bs-xs-34, .col-bs-xs-35, .col-bs-xs-36, .col-bs-xs-37, .col-bs-xs-38, .col-bs-xs-39, .col-bs-xs-40, .col-bs-xs-41, .col-bs-xs-42, .col-bs-xs-43, .col-bs-xs-44, .col-bs-xs-45, .col-bs-xs-46, .col-bs-xs-47, .col-bs-xs-48, .col-bs-xs-49, .col-bs-xs-50, .col-bs-xs-51, .col-bs-xs-52, .col-bs-xs-53, .col-bs-xs-54, .col-bs-xs-55, .col-bs-xs-56, .col-bs-xs-57, .col-bs-xs-58, .col-bs-xs-59, .col-bs-xs-60, .col-bs-xs-61, .col-bs-xs-62, .col-bs-xs-63, .col-bs-xs-64, .col-bs-xs-65, .col-bs-xs-66, .col-bs-xs-67, .col-bs-xs-68, .col-bs-xs-69, .col-bs-xs-70, .col-bs-xs-71, .col-bs-xs-72, .col-bs-xs-73, .col-bs-xs-74, .col-bs-xs-75, .col-bs-xs-76, .col-bs-xs-77, .col-bs-xs-78, .col-bs-xs-79, .col-bs-xs-80, .col-bs-xs-81, .col-bs-xs-82, .col-bs-xs-83, .col-bs-xs-84, .col-bs-xs-85, .col-bs-xs-86, .col-bs-xs-87, .col-bs-xs-88, .col-bs-xs-89, .col-bs-xs-90, .col-bs-xs-91, .col-bs-xs-92, .col-bs-xs-93, .col-bs-xs-94, .col-bs-xs-95, .col-bs-xs-96, .col-bs-xs-97, .col-bs-xs-98, .col-bs-xs-99, .col-bs-xs-100 {
+  float: left;
+}
+.col-bs-xs-1 {
+  width: 1%;
+}
+
+.col-bs-xs-2 {
+  width: 2%;
+}
+
+.col-bs-xs-3 {
+  width: 3%;
+}
+
+.col-bs-xs-4 {
+  width: 4%;
+}
+
+.col-bs-xs-5 {
+  width: 5%;
+}
+
+.col-bs-xs-6 {
+  width: 6%;
+}
+
+.col-bs-xs-7 {
+  width: 7%;
+}
+
+.col-bs-xs-8 {
+  width: 8%;
+}
+
+.col-bs-xs-9 {
+  width: 9%;
+}
+
+.col-bs-xs-10 {
+  width: 10%;
+}
+
+.col-bs-xs-11 {
+  width: 11%;
+}
+
+.col-bs-xs-12 {
+  width: 12%;
+}
+
+.col-bs-xs-13 {
+  width: 13%;
+}
+
+.col-bs-xs-14 {
+  width: 14%;
+}
+
+.col-bs-xs-15 {
+  width: 15%;
+}
+
+.col-bs-xs-16 {
+  width: 16%;
+}
+
+.col-bs-xs-17 {
+  width: 17%;
+}
+
+.col-bs-xs-18 {
+  width: 18%;
+}
+
+.col-bs-xs-19 {
+  width: 19%;
+}
+
+.col-bs-xs-20 {
+  width: 20%;
+}
+
+.col-bs-xs-21 {
+  width: 21%;
+}
+
+.col-bs-xs-22 {
+  width: 22%;
+}
+
+.col-bs-xs-23 {
+  width: 23%;
+}
+
+.col-bs-xs-24 {
+  width: 24%;
+}
+
+.col-bs-xs-25 {
+  width: 25%;
+}
+
+.col-bs-xs-26 {
+  width: 26%;
+}
+
+.col-bs-xs-27 {
+  width: 27%;
+}
+
+.col-bs-xs-28 {
+  width: 28%;
+}
+
+.col-bs-xs-29 {
+  width: 29%;
+}
+
+.col-bs-xs-30 {
+  width: 30%;
+}
+
+.col-bs-xs-31 {
+  width: 31%;
+}
+
+.col-bs-xs-32 {
+  width: 32%;
+}
+
+.col-bs-xs-33 {
+  width: 33%;
+}
+
+.col-bs-xs-34 {
+  width: 34%;
+}
+
+.col-bs-xs-35 {
+  width: 35%;
+}
+
+.col-bs-xs-36 {
+  width: 36%;
+}
+
+.col-bs-xs-37 {
+  width: 37%;
+}
+
+.col-bs-xs-38 {
+  width: 38%;
+}
+
+.col-bs-xs-39 {
+  width: 39%;
+}
+
+.col-bs-xs-40 {
+  width: 40%;
+}
+
+.col-bs-xs-41 {
+  width: 41%;
+}
+
+.col-bs-xs-42 {
+  width: 42%;
+}
+
+.col-bs-xs-43 {
+  width: 43%;
+}
+
+.col-bs-xs-44 {
+  width: 44%;
+}
+
+.col-bs-xs-45 {
+  width: 45%;
+}
+
+.col-bs-xs-46 {
+  width: 46%;
+}
+
+.col-bs-xs-47 {
+  width: 47%;
+}
+
+.col-bs-xs-48 {
+  width: 48%;
+}
+
+.col-bs-xs-49 {
+  width: 49%;
+}
+
+.col-bs-xs-50 {
+  width: 50%;
+}
+
+.col-bs-xs-51 {
+  width: 51%;
+}
+
+.col-bs-xs-52 {
+  width: 52%;
+}
+
+.col-bs-xs-53 {
+  width: 53%;
+}
+
+.col-bs-xs-54 {
+  width: 54%;
+}
+
+.col-bs-xs-55 {
+  width: 55%;
+}
+
+.col-bs-xs-56 {
+  width: 56%;
+}
+
+.col-bs-xs-57 {
+  width: 57%;
+}
+
+.col-bs-xs-58 {
+  width: 58%;
+}
+
+.col-bs-xs-59 {
+  width: 59%;
+}
+
+.col-bs-xs-60 {
+  width: 60%;
+}
+
+.col-bs-xs-61 {
+  width: 61%;
+}
+
+.col-bs-xs-62 {
+  width: 62%;
+}
+
+.col-bs-xs-63 {
+  width: 63%;
+}
+
+.col-bs-xs-64 {
+  width: 64%;
+}
+
+.col-bs-xs-65 {
+  width: 65%;
+}
+
+.col-bs-xs-66 {
+  width: 66%;
+}
+
+.col-bs-xs-67 {
+  width: 67%;
+}
+
+.col-bs-xs-68 {
+  width: 68%;
+}
+
+.col-bs-xs-69 {
+  width: 69%;
+}
+
+.col-bs-xs-70 {
+  width: 70%;
+}
+
+.col-bs-xs-71 {
+  width: 71%;
+}
+
+.col-bs-xs-72 {
+  width: 72%;
+}
+
+.col-bs-xs-73 {
+  width: 73%;
+}
+
+.col-bs-xs-74 {
+  width: 74%;
+}
+
+.col-bs-xs-75 {
+  width: 75%;
+}
+
+.col-bs-xs-76 {
+  width: 76%;
+}
+
+.col-bs-xs-77 {
+  width: 77%;
+}
+
+.col-bs-xs-78 {
+  width: 78%;
+}
+
+.col-bs-xs-79 {
+  width: 79%;
+}
+
+.col-bs-xs-80 {
+  width: 80%;
+}
+
+.col-bs-xs-81 {
+  width: 81%;
+}
+
+.col-bs-xs-82 {
+  width: 82%;
+}
+
+.col-bs-xs-83 {
+  width: 83%;
+}
+
+.col-bs-xs-84 {
+  width: 84%;
+}
+
+.col-bs-xs-85 {
+  width: 85%;
+}
+
+.col-bs-xs-86 {
+  width: 86%;
+}
+
+.col-bs-xs-87 {
+  width: 87%;
+}
+
+.col-bs-xs-88 {
+  width: 88%;
+}
+
+.col-bs-xs-89 {
+  width: 89%;
+}
+
+.col-bs-xs-90 {
+  width: 90%;
+}
+
+.col-bs-xs-91 {
+  width: 91%;
+}
+
+.col-bs-xs-92 {
+  width: 92%;
+}
+
+.col-bs-xs-93 {
+  width: 93%;
+}
+
+.col-bs-xs-94 {
+  width: 94%;
+}
+
+.col-bs-xs-95 {
+  width: 95%;
+}
+
+.col-bs-xs-96 {
+  width: 96%;
+}
+
+.col-bs-xs-97 {
+  width: 97%;
+}
+
+.col-bs-xs-98 {
+  width: 98%;
+}
+
+.col-bs-xs-99 {
+  width: 99%;
+}
+
+.col-bs-xs-100 {
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .col-bs-sm-1, .col-bs-sm-2, .col-bs-sm-3, .col-bs-sm-4, .col-bs-sm-5, .col-bs-sm-6, .col-bs-sm-7, .col-bs-sm-8, .col-bs-sm-9, .col-bs-sm-10, .col-bs-sm-11, .col-bs-sm-12, .col-bs-sm-13, .col-bs-sm-14, .col-bs-sm-15, .col-bs-sm-16, .col-bs-sm-17, .col-bs-sm-18, .col-bs-sm-19, .col-bs-sm-20, .col-bs-sm-21, .col-bs-sm-22, .col-bs-sm-23, .col-bs-sm-24, .col-bs-sm-25, .col-bs-sm-26, .col-bs-sm-27, .col-bs-sm-28, .col-bs-sm-29, .col-bs-sm-30, .col-bs-sm-31, .col-bs-sm-32, .col-bs-sm-33, .col-bs-sm-34, .col-bs-sm-35, .col-bs-sm-36, .col-bs-sm-37, .col-bs-sm-38, .col-bs-sm-39, .col-bs-sm-40, .col-bs-sm-41, .col-bs-sm-42, .col-bs-sm-43, .col-bs-sm-44, .col-bs-sm-45, .col-bs-sm-46, .col-bs-sm-47, .col-bs-sm-48, .col-bs-sm-49, .col-bs-sm-50, .col-bs-sm-51, .col-bs-sm-52, .col-bs-sm-53, .col-bs-sm-54, .col-bs-sm-55, .col-bs-sm-56, .col-bs-sm-57, .col-bs-sm-58, .col-bs-sm-59, .col-bs-sm-60, .col-bs-sm-61, .col-bs-sm-62, .col-bs-sm-63, .col-bs-sm-64, .col-bs-sm-65, .col-bs-sm-66, .col-bs-sm-67, .col-bs-sm-68, .col-bs-sm-69, .col-bs-sm-70, .col-bs-sm-71, .col-bs-sm-72, .col-bs-sm-73, .col-bs-sm-74, .col-bs-sm-75, .col-bs-sm-76, .col-bs-sm-77, .col-bs-sm-78, .col-bs-sm-79, .col-bs-sm-80, .col-bs-sm-81, .col-bs-sm-82, .col-bs-sm-83, .col-bs-sm-84, .col-bs-sm-85, .col-bs-sm-86, .col-bs-sm-87, .col-bs-sm-88, .col-bs-sm-89, .col-bs-sm-90, .col-bs-sm-91, .col-bs-sm-92, .col-bs-sm-93, .col-bs-sm-94, .col-bs-sm-95, .col-bs-sm-96, .col-bs-sm-97, .col-bs-sm-98, .col-bs-sm-99, .col-bs-sm-100 {
+    float: left;
+  }
+.col-bs-sm-1 {
+  width: 1%;
+}
+
+.col-bs-sm-2 {
+  width: 2%;
+}
+
+.col-bs-sm-3 {
+  width: 3%;
+}
+
+.col-bs-sm-4 {
+  width: 4%;
+}
+
+.col-bs-sm-5 {
+  width: 5%;
+}
+
+.col-bs-sm-6 {
+  width: 6%;
+}
+
+.col-bs-sm-7 {
+  width: 7%;
+}
+
+.col-bs-sm-8 {
+  width: 8%;
+}
+
+.col-bs-sm-9 {
+  width: 9%;
+}
+
+.col-bs-sm-10 {
+  width: 10%;
+}
+
+.col-bs-sm-11 {
+  width: 11%;
+}
+
+.col-bs-sm-12 {
+  width: 12%;
+}
+
+.col-bs-sm-13 {
+  width: 13%;
+}
+
+.col-bs-sm-14 {
+  width: 14%;
+}
+
+.col-bs-sm-15 {
+  width: 15%;
+}
+
+.col-bs-sm-16 {
+  width: 16%;
+}
+
+.col-bs-sm-17 {
+  width: 17%;
+}
+
+.col-bs-sm-18 {
+  width: 18%;
+}
+
+.col-bs-sm-19 {
+  width: 19%;
+}
+
+.col-bs-sm-20 {
+  width: 20%;
+}
+
+.col-bs-sm-21 {
+  width: 21%;
+}
+
+.col-bs-sm-22 {
+  width: 22%;
+}
+
+.col-bs-sm-23 {
+  width: 23%;
+}
+
+.col-bs-sm-24 {
+  width: 24%;
+}
+
+.col-bs-sm-25 {
+  width: 25%;
+}
+
+.col-bs-sm-26 {
+  width: 26%;
+}
+
+.col-bs-sm-27 {
+  width: 27%;
+}
+
+.col-bs-sm-28 {
+  width: 28%;
+}
+
+.col-bs-sm-29 {
+  width: 29%;
+}
+
+.col-bs-sm-30 {
+  width: 30%;
+}
+
+.col-bs-sm-31 {
+  width: 31%;
+}
+
+.col-bs-sm-32 {
+  width: 32%;
+}
+
+.col-bs-sm-33 {
+  width: 33%;
+}
+
+.col-bs-sm-34 {
+  width: 34%;
+}
+
+.col-bs-sm-35 {
+  width: 35%;
+}
+
+.col-bs-sm-36 {
+  width: 36%;
+}
+
+.col-bs-sm-37 {
+  width: 37%;
+}
+
+.col-bs-sm-38 {
+  width: 38%;
+}
+
+.col-bs-sm-39 {
+  width: 39%;
+}
+
+.col-bs-sm-40 {
+  width: 40%;
+}
+
+.col-bs-sm-41 {
+  width: 41%;
+}
+
+.col-bs-sm-42 {
+  width: 42%;
+}
+
+.col-bs-sm-43 {
+  width: 43%;
+}
+
+.col-bs-sm-44 {
+  width: 44%;
+}
+
+.col-bs-sm-45 {
+  width: 45%;
+}
+
+.col-bs-sm-46 {
+  width: 46%;
+}
+
+.col-bs-sm-47 {
+  width: 47%;
+}
+
+.col-bs-sm-48 {
+  width: 48%;
+}
+
+.col-bs-sm-49 {
+  width: 49%;
+}
+
+.col-bs-sm-50 {
+  width: 50%;
+}
+
+.col-bs-sm-51 {
+  width: 51%;
+}
+
+.col-bs-sm-52 {
+  width: 52%;
+}
+
+.col-bs-sm-53 {
+  width: 53%;
+}
+
+.col-bs-sm-54 {
+  width: 54%;
+}
+
+.col-bs-sm-55 {
+  width: 55%;
+}
+
+.col-bs-sm-56 {
+  width: 56%;
+}
+
+.col-bs-sm-57 {
+  width: 57%;
+}
+
+.col-bs-sm-58 {
+  width: 58%;
+}
+
+.col-bs-sm-59 {
+  width: 59%;
+}
+
+.col-bs-sm-60 {
+  width: 60%;
+}
+
+.col-bs-sm-61 {
+  width: 61%;
+}
+
+.col-bs-sm-62 {
+  width: 62%;
+}
+
+.col-bs-sm-63 {
+  width: 63%;
+}
+
+.col-bs-sm-64 {
+  width: 64%;
+}
+
+.col-bs-sm-65 {
+  width: 65%;
+}
+
+.col-bs-sm-66 {
+  width: 66%;
+}
+
+.col-bs-sm-67 {
+  width: 67%;
+}
+
+.col-bs-sm-68 {
+  width: 68%;
+}
+
+.col-bs-sm-69 {
+  width: 69%;
+}
+
+.col-bs-sm-70 {
+  width: 70%;
+}
+
+.col-bs-sm-71 {
+  width: 71%;
+}
+
+.col-bs-sm-72 {
+  width: 72%;
+}
+
+.col-bs-sm-73 {
+  width: 73%;
+}
+
+.col-bs-sm-74 {
+  width: 74%;
+}
+
+.col-bs-sm-75 {
+  width: 75%;
+}
+
+.col-bs-sm-76 {
+  width: 76%;
+}
+
+.col-bs-sm-77 {
+  width: 77%;
+}
+
+.col-bs-sm-78 {
+  width: 78%;
+}
+
+.col-bs-sm-79 {
+  width: 79%;
+}
+
+.col-bs-sm-80 {
+  width: 80%;
+}
+
+.col-bs-sm-81 {
+  width: 81%;
+}
+
+.col-bs-sm-82 {
+  width: 82%;
+}
+
+.col-bs-sm-83 {
+  width: 83%;
+}
+
+.col-bs-sm-84 {
+  width: 84%;
+}
+
+.col-bs-sm-85 {
+  width: 85%;
+}
+
+.col-bs-sm-86 {
+  width: 86%;
+}
+
+.col-bs-sm-87 {
+  width: 87%;
+}
+
+.col-bs-sm-88 {
+  width: 88%;
+}
+
+.col-bs-sm-89 {
+  width: 89%;
+}
+
+.col-bs-sm-90 {
+  width: 90%;
+}
+
+.col-bs-sm-91 {
+  width: 91%;
+}
+
+.col-bs-sm-92 {
+  width: 92%;
+}
+
+.col-bs-sm-93 {
+  width: 93%;
+}
+
+.col-bs-sm-94 {
+  width: 94%;
+}
+
+.col-bs-sm-95 {
+  width: 95%;
+}
+
+.col-bs-sm-96 {
+  width: 96%;
+}
+
+.col-bs-sm-97 {
+  width: 97%;
+}
+
+.col-bs-sm-98 {
+  width: 98%;
+}
+
+.col-bs-sm-99 {
+  width: 99%;
+}
+
+.col-bs-sm-100 {
+  width: 100%;
+}
+}
+
+  
+@media (min-width: 992px) {
+  .col-bs-md-1, .col-bs-md-2, .col-bs-md-3, .col-bs-md-4, .col-bs-md-5, .col-bs-md-6, .col-bs-md-7, .col-bs-md-8, .col-bs-md-9, .col-bs-md-10, .col-bs-md-11, .col-bs-md-12, .col-bs-md-13, .col-bs-md-14, .col-bs-md-15, .col-bs-md-16, .col-bs-md-17, .col-bs-md-18, .col-bs-md-19, .col-bs-md-20, .col-bs-md-21, .col-bs-md-22, .col-bs-md-23, .col-bs-md-24, .col-bs-md-25, .col-bs-md-26, .col-bs-md-27, .col-bs-md-28, .col-bs-md-29, .col-bs-md-30, .col-bs-md-31, .col-bs-md-32, .col-bs-md-33, .col-bs-md-34, .col-bs-md-35, .col-bs-md-36, .col-bs-md-37, .col-bs-md-38, .col-bs-md-39, .col-bs-md-40, .col-bs-md-41, .col-bs-md-42, .col-bs-md-43, .col-bs-md-44, .col-bs-md-45, .col-bs-md-46, .col-bs-md-47, .col-bs-md-48, .col-bs-md-49, .col-bs-md-50, .col-bs-md-51, .col-bs-md-52, .col-bs-md-53, .col-bs-md-54, .col-bs-md-55, .col-bs-md-56, .col-bs-md-57, .col-bs-md-58, .col-bs-md-59, .col-bs-md-60, .col-bs-md-61, .col-bs-md-62, .col-bs-md-63, .col-bs-md-64, .col-bs-md-65, .col-bs-md-66, .col-bs-md-67, .col-bs-md-68, .col-bs-md-69, .col-bs-md-70, .col-bs-md-71, .col-bs-md-72, .col-bs-md-73, .col-bs-md-74, .col-bs-md-75, .col-bs-md-76, .col-bs-md-77, .col-bs-md-78, .col-bs-md-79, .col-bs-md-80, .col-bs-md-81, .col-bs-md-82, .col-bs-md-83, .col-bs-md-84, .col-bs-md-85, .col-bs-md-86, .col-bs-md-87, .col-bs-md-88, .col-bs-md-89, .col-bs-md-90, .col-bs-md-91, .col-bs-md-92, .col-bs-md-93, .col-bs-md-94, .col-bs-md-95, .col-bs-md-96, .col-bs-md-97, .col-bs-md-98, .col-bs-md-99, .col-bs-md-100 {
+    float: left;
+  }
+.col-bs-md-1 {
+  width: 1%;
+}
+
+.col-bs-md-2 {
+  width: 2%;
+}
+
+.col-bs-md-3 {
+  width: 3%;
+}
+
+.col-bs-md-4 {
+  width: 4%;
+}
+
+.col-bs-md-5 {
+  width: 5%;
+}
+
+.col-bs-md-6 {
+  width: 6%;
+}
+
+.col-bs-md-7 {
+  width: 7%;
+}
+
+.col-bs-md-8 {
+  width: 8%;
+}
+
+.col-bs-md-9 {
+  width: 9%;
+}
+
+.col-bs-md-10 {
+  width: 10%;
+}
+
+.col-bs-md-11 {
+  width: 11%;
+}
+
+.col-bs-md-12 {
+  width: 12%;
+}
+
+.col-bs-md-13 {
+  width: 13%;
+}
+
+.col-bs-md-14 {
+  width: 14%;
+}
+
+.col-bs-md-15 {
+  width: 15%;
+}
+
+.col-bs-md-16 {
+  width: 16%;
+}
+
+.col-bs-md-17 {
+  width: 17%;
+}
+
+.col-bs-md-18 {
+  width: 18%;
+}
+
+.col-bs-md-19 {
+  width: 19%;
+}
+
+.col-bs-md-20 {
+  width: 20%;
+}
+
+.col-bs-md-21 {
+  width: 21%;
+}
+
+.col-bs-md-22 {
+  width: 22%;
+}
+
+.col-bs-md-23 {
+  width: 23%;
+}
+
+.col-bs-md-24 {
+  width: 24%;
+}
+
+.col-bs-md-25 {
+  width: 25%;
+}
+
+.col-bs-md-26 {
+  width: 26%;
+}
+
+.col-bs-md-27 {
+  width: 27%;
+}
+
+.col-bs-md-28 {
+  width: 28%;
+}
+
+.col-bs-md-29 {
+  width: 29%;
+}
+
+.col-bs-md-30 {
+  width: 30%;
+}
+
+.col-bs-md-31 {
+  width: 31%;
+}
+
+.col-bs-md-32 {
+  width: 32%;
+}
+
+.col-bs-md-33 {
+  width: 33%;
+}
+
+.col-bs-md-34 {
+  width: 34%;
+}
+
+.col-bs-md-35 {
+  width: 35%;
+}
+
+.col-bs-md-36 {
+  width: 36%;
+}
+
+.col-bs-md-37 {
+  width: 37%;
+}
+
+.col-bs-md-38 {
+  width: 38%;
+}
+
+.col-bs-md-39 {
+  width: 39%;
+}
+
+.col-bs-md-40 {
+  width: 40%;
+}
+
+.col-bs-md-41 {
+  width: 41%;
+}
+
+.col-bs-md-42 {
+  width: 42%;
+}
+
+.col-bs-md-43 {
+  width: 43%;
+}
+
+.col-bs-md-44 {
+  width: 44%;
+}
+
+.col-bs-md-45 {
+  width: 45%;
+}
+
+.col-bs-md-46 {
+  width: 46%;
+}
+
+.col-bs-md-47 {
+  width: 47%;
+}
+
+.col-bs-md-48 {
+  width: 48%;
+}
+
+.col-bs-md-49 {
+  width: 49%;
+}
+
+.col-bs-md-50 {
+  width: 50%;
+}
+
+.col-bs-md-51 {
+  width: 51%;
+}
+
+.col-bs-md-52 {
+  width: 52%;
+}
+
+.col-bs-md-53 {
+  width: 53%;
+}
+
+.col-bs-md-54 {
+  width: 54%;
+}
+
+.col-bs-md-55 {
+  width: 55%;
+}
+
+.col-bs-md-56 {
+  width: 56%;
+}
+
+.col-bs-md-57 {
+  width: 57%;
+}
+
+.col-bs-md-58 {
+  width: 58%;
+}
+
+.col-bs-md-59 {
+  width: 59%;
+}
+
+.col-bs-md-60 {
+  width: 60%;
+}
+
+.col-bs-md-61 {
+  width: 61%;
+}
+
+.col-bs-md-62 {
+  width: 62%;
+}
+
+.col-bs-md-63 {
+  width: 63%;
+}
+
+.col-bs-md-64 {
+  width: 64%;
+}
+
+.col-bs-md-65 {
+  width: 65%;
+}
+
+.col-bs-md-66 {
+  width: 66%;
+}
+
+.col-bs-md-67 {
+  width: 67%;
+}
+
+.col-bs-md-68 {
+  width: 68%;
+}
+
+.col-bs-md-69 {
+  width: 69%;
+}
+
+.col-bs-md-70 {
+  width: 70%;
+}
+
+.col-bs-md-71 {
+  width: 71%;
+}
+
+.col-bs-md-72 {
+  width: 72%;
+}
+
+.col-bs-md-73 {
+  width: 73%;
+}
+
+.col-bs-md-74 {
+  width: 74%;
+}
+
+.col-bs-md-75 {
+  width: 75%;
+}
+
+.col-bs-md-76 {
+  width: 76%;
+}
+
+.col-bs-md-77 {
+  width: 77%;
+}
+
+.col-bs-md-78 {
+  width: 78%;
+}
+
+.col-bs-md-79 {
+  width: 79%;
+}
+
+.col-bs-md-80 {
+  width: 80%;
+}
+
+.col-bs-md-81 {
+  width: 81%;
+}
+
+.col-bs-md-82 {
+  width: 82%;
+}
+
+.col-bs-md-83 {
+  width: 83%;
+}
+
+.col-bs-md-84 {
+  width: 84%;
+}
+
+.col-bs-md-85 {
+  width: 85%;
+}
+
+.col-bs-md-86 {
+  width: 86%;
+}
+
+.col-bs-md-87 {
+  width: 87%;
+}
+
+.col-bs-md-88 {
+  width: 88%;
+}
+
+.col-bs-md-89 {
+  width: 89%;
+}
+
+.col-bs-md-90 {
+  width: 90%;
+}
+
+.col-bs-md-91 {
+  width: 91%;
+}
+
+.col-bs-md-92 {
+  width: 92%;
+}
+
+.col-bs-md-93 {
+  width: 93%;
+}
+
+.col-bs-md-94 {
+  width: 94%;
+}
+
+.col-bs-md-95 {
+  width: 95%;
+}
+
+.col-bs-md-96 {
+  width: 96%;
+}
+
+.col-bs-md-97 {
+  width: 97%;
+}
+
+.col-bs-md-98 {
+  width: 98%;
+}
+
+.col-bs-md-99 {
+  width: 99%;
+}
+
+.col-bs-md-100 {
+  width: 100%;
+}
+}
+
+ 
+@media (min-width: 1200px) {
+  .col-bs-lg-1, .col-bs-lg-2, .col-bs-lg-3, .col-bs-lg-4, .col-bs-lg-5, .col-bs-lg-6, .col-bs-lg-7, .col-bs-lg-8, .col-bs-lg-9, .col-bs-lg-10, .col-bs-lg-11, .col-bs-lg-12, .col-bs-lg-13, .col-bs-lg-14, .col-bs-lg-15, .col-bs-lg-16, .col-bs-lg-17, .col-bs-lg-18, .col-bs-lg-19, .col-bs-lg-20, .col-bs-lg-21, .col-bs-lg-22, .col-bs-lg-23, .col-bs-lg-24, .col-bs-lg-25, .col-bs-lg-26, .col-bs-lg-27, .col-bs-lg-28, .col-bs-lg-29, .col-bs-lg-30, .col-bs-lg-31, .col-bs-lg-32, .col-bs-lg-33, .col-bs-lg-34, .col-bs-lg-35, .col-bs-lg-36, .col-bs-lg-37, .col-bs-lg-38, .col-bs-lg-39, .col-bs-lg-40, .col-bs-lg-41, .col-bs-lg-42, .col-bs-lg-43, .col-bs-lg-44, .col-bs-lg-45, .col-bs-lg-46, .col-bs-lg-47, .col-bs-lg-48, .col-bs-lg-49, .col-bs-lg-50, .col-bs-lg-51, .col-bs-lg-52, .col-bs-lg-53, .col-bs-lg-54, .col-bs-lg-55, .col-bs-lg-56, .col-bs-lg-57, .col-bs-lg-58, .col-bs-lg-59, .col-bs-lg-60, .col-bs-lg-61, .col-bs-lg-62, .col-bs-lg-63, .col-bs-lg-64, .col-bs-lg-65, .col-bs-lg-66, .col-bs-lg-67, .col-bs-lg-68, .col-bs-lg-69, .col-bs-lg-70, .col-bs-lg-71, .col-bs-lg-72, .col-bs-lg-73, .col-bs-lg-74, .col-bs-lg-75, .col-bs-lg-76, .col-bs-lg-77, .col-bs-lg-78, .col-bs-lg-79, .col-bs-lg-80, .col-bs-lg-81, .col-bs-lg-82, .col-bs-lg-83, .col-bs-lg-84, .col-bs-lg-85, .col-bs-lg-86, .col-bs-lg-87, .col-bs-lg-88, .col-bs-lg-89, .col-bs-lg-90, .col-bs-lg-91, .col-bs-lg-92, .col-bs-lg-93, .col-bs-lg-94, .col-bs-lg-95, .col-bs-lg-96, .col-bs-lg-97, .col-bs-lg-98, .col-bs-lg-99, .col-bs-lg-100 {
+    float: left;
+  }
+.col-bs-lg-1 {
+  width: 1%;
+}
+
+.col-bs-lg-2 {
+  width: 2%;
+}
+
+.col-bs-lg-3 {
+  width: 3%;
+}
+
+.col-bs-lg-4 {
+  width: 4%;
+}
+
+.col-bs-lg-5 {
+  width: 5%;
+}
+
+.col-bs-lg-6 {
+  width: 6%;
+}
+
+.col-bs-lg-7 {
+  width: 7%;
+}
+
+.col-bs-lg-8 {
+  width: 8%;
+}
+
+.col-bs-lg-9 {
+  width: 9%;
+}
+
+.col-bs-lg-10 {
+  width: 10%;
+}
+
+.col-bs-lg-11 {
+  width: 11%;
+}
+
+.col-bs-lg-12 {
+  width: 12%;
+}
+
+.col-bs-lg-13 {
+  width: 13%;
+}
+
+.col-bs-lg-14 {
+  width: 14%;
+}
+
+.col-bs-lg-15 {
+  width: 15%;
+}
+
+.col-bs-lg-16 {
+  width: 16%;
+}
+
+.col-bs-lg-17 {
+  width: 17%;
+}
+
+.col-bs-lg-18 {
+  width: 18%;
+}
+
+.col-bs-lg-19 {
+  width: 19%;
+}
+
+.col-bs-lg-20 {
+  width: 20%;
+}
+
+.col-bs-lg-21 {
+  width: 21%;
+}
+
+.col-bs-lg-22 {
+  width: 22%;
+}
+
+.col-bs-lg-23 {
+  width: 23%;
+}
+
+.col-bs-lg-24 {
+  width: 24%;
+}
+
+.col-bs-lg-25 {
+  width: 25%;
+}
+
+.col-bs-lg-26 {
+  width: 26%;
+}
+
+.col-bs-lg-27 {
+  width: 27%;
+}
+
+.col-bs-lg-28 {
+  width: 28%;
+}
+
+.col-bs-lg-29 {
+  width: 29%;
+}
+
+.col-bs-lg-30 {
+  width: 30%;
+}
+
+.col-bs-lg-31 {
+  width: 31%;
+}
+
+.col-bs-lg-32 {
+  width: 32%;
+}
+
+.col-bs-lg-33 {
+  width: 33%;
+}
+
+.col-bs-lg-34 {
+  width: 34%;
+}
+
+.col-bs-lg-35 {
+  width: 35%;
+}
+
+.col-bs-lg-36 {
+  width: 36%;
+}
+
+.col-bs-lg-37 {
+  width: 37%;
+}
+
+.col-bs-lg-38 {
+  width: 38%;
+}
+
+.col-bs-lg-39 {
+  width: 39%;
+}
+
+.col-bs-lg-40 {
+  width: 40%;
+}
+
+.col-bs-lg-41 {
+  width: 41%;
+}
+
+.col-bs-lg-42 {
+  width: 42%;
+}
+
+.col-bs-lg-43 {
+  width: 43%;
+}
+
+.col-bs-lg-44 {
+  width: 44%;
+}
+
+.col-bs-lg-45 {
+  width: 45%;
+}
+
+.col-bs-lg-46 {
+  width: 46%;
+}
+
+.col-bs-lg-47 {
+  width: 47%;
+}
+
+.col-bs-lg-48 {
+  width: 48%;
+}
+
+.col-bs-lg-49 {
+  width: 49%;
+}
+
+.col-bs-lg-50 {
+  width: 50%;
+}
+
+.col-bs-lg-51 {
+  width: 51%;
+}
+
+.col-bs-lg-52 {
+  width: 52%;
+}
+
+.col-bs-lg-53 {
+  width: 53%;
+}
+
+.col-bs-lg-54 {
+  width: 54%;
+}
+
+.col-bs-lg-55 {
+  width: 55%;
+}
+
+.col-bs-lg-56 {
+  width: 56%;
+}
+
+.col-bs-lg-57 {
+  width: 57%;
+}
+
+.col-bs-lg-58 {
+  width: 58%;
+}
+
+.col-bs-lg-59 {
+  width: 59%;
+}
+
+.col-bs-lg-60 {
+  width: 60%;
+}
+
+.col-bs-lg-61 {
+  width: 61%;
+}
+
+.col-bs-lg-62 {
+  width: 62%;
+}
+
+.col-bs-lg-63 {
+  width: 63%;
+}
+
+.col-bs-lg-64 {
+  width: 64%;
+}
+
+.col-bs-lg-65 {
+  width: 65%;
+}
+
+.col-bs-lg-66 {
+  width: 66%;
+}
+
+.col-bs-lg-67 {
+  width: 67%;
+}
+
+.col-bs-lg-68 {
+  width: 68%;
+}
+
+.col-bs-lg-69 {
+  width: 69%;
+}
+
+.col-bs-lg-70 {
+  width: 70%;
+}
+
+.col-bs-lg-71 {
+  width: 71%;
+}
+
+.col-bs-lg-72 {
+  width: 72%;
+}
+
+.col-bs-lg-73 {
+  width: 73%;
+}
+
+.col-bs-lg-74 {
+  width: 74%;
+}
+
+.col-bs-lg-75 {
+  width: 75%;
+}
+
+.col-bs-lg-76 {
+  width: 76%;
+}
+
+.col-bs-lg-77 {
+  width: 77%;
+}
+
+.col-bs-lg-78 {
+  width: 78%;
+}
+
+.col-bs-lg-79 {
+  width: 79%;
+}
+
+.col-bs-lg-80 {
+  width: 80%;
+}
+
+.col-bs-lg-81 {
+  width: 81%;
+}
+
+.col-bs-lg-82 {
+  width: 82%;
+}
+
+.col-bs-lg-83 {
+  width: 83%;
+}
+
+.col-bs-lg-84 {
+  width: 84%;
+}
+
+.col-bs-lg-85 {
+  width: 85%;
+}
+
+.col-bs-lg-86 {
+  width: 86%;
+}
+
+.col-bs-lg-87 {
+  width: 87%;
+}
+
+.col-bs-lg-88 {
+  width: 88%;
+}
+
+.col-bs-lg-89 {
+  width: 89%;
+}
+
+.col-bs-lg-90 {
+  width: 90%;
+}
+
+.col-bs-lg-91 {
+  width: 91%;
+}
+
+.col-bs-lg-92 {
+  width: 92%;
+}
+
+.col-bs-lg-93 {
+  width: 93%;
+}
+
+.col-bs-lg-94 {
+  width: 94%;
+}
+
+.col-bs-lg-95 {
+  width: 95%;
+}
+
+.col-bs-lg-96 {
+  width: 96%;
+}
+
+.col-bs-lg-97 {
+  width: 97%;
+}
+
+.col-bs-lg-98 {
+  width: 98%;
+}
+
+.col-bs-lg-99 {
+  width: 99%;
+}
+
+.col-bs-lg-100 {
+  width: 100%;
+}
+}
